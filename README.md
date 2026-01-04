@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity, Ethical Hacking & Open Source Contributor<br>Security Engineer at Shield Technology<br>11x Hackathon Participant & Open Source Hackathon Mentor<br>Contributor to NASA, Google DeepMind, and Open Source Community Projects (OSC)<br>AWS Security Users Group (Pune) — Core Member<br>2× World Record Contributor in Open Source & Technology Events<br>Certified Cybersecurity Associate — Fortinet | Cisco | IBM | Google | AWS<br>Passionate about Blue Team Defense, Threat Intelligence, and Open Security Collaboration<br>Constant learner — exploring AI Security, Cloud Defense, and DevSecOps
+Cybersecurity, Ethical Hacking & Open Source Contributor<br>Security Engineer at Shield Technology<br>20x Hackathon Participant & 6x Open Source Hackathon Mentor<br>Contributor to NASA, Google DeepMind, and Open Source Community Projects (OSC)<br>AWS Security Users Group (Pune) — Core Member<br>2× World Record Contributor in Open Source & Technology Events<br>Certified Cybersecurity Associate — Fortinet | Cisco | IBM | Google | AWS<br>Passionate about Blue Team Defense, Threat Intelligence, and Open Security Collaboration<br>Constant learner — exploring AI Security, Cloud Defense, and DevSecOps
 
 
 ## 🌐 Socials:
