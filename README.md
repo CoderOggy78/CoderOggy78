@@ -1,4 +1,4 @@
-# Introduction to lelo :
+# Introduction to lelo : 
 Cybersecurity, SDE, AI-ML, AI-DS & Open Source Contributor<br>Security Engineer at Shield Technology<br>25x Hackathon Participant & 8x Open Source Hackathon Mentor<br>Contributor to NASA, Google DeepMind, Meta and Open Source Community Projects (OSC)<br>AWS User Groups and Google Developer Groups— Technical Lead<br>2× World Record Contributor in Open Source & Technology Events<br>Certified Cybersecurity Associate — Fortinet | Cisco | IBM | Google | AWS | Microsoft<br>Passionate about Blue Team Defense, Threat Intelligence, and Open Security Collaboration<br>Constant learner — exploring AI Security, Cloud Defense , AI-ML and AI-DS
 
 
