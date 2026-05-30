@@ -2,7 +2,7 @@
 Cybersecurity, SDE, AI-ML, AI-DS & Open Source Contributor<br>8+ Years of Coding and 3 Years in Corporates<br>35x Hackathon Participant & 16x Open Source Mentor<br>Contributor to NASA, Google DeepMind, Meta and Open Source Community Projects (OSC)<br>AWS User Groups and Google Developer Groups— Technical Lead<br>2× World Record Contributor in Open Source & Technology Events<br>Certified Cybersecurity Associate — Fortinet | Cisco | IBM | Google | AWS | Microsoft<br>Passionate about Blue Team Defense, Threat Intelligence, and Open Security Collaboration<br>Constant learner — exploring AI Security, Cloud Defense , AI-ML and AI-DS
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ofc._oggy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwanathbarve1@gmail.com) 
 
 
