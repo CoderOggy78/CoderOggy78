@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a first-year student at **IIT Jodhpur (B.S. Artificial Intelligence)** working at the intersection of AI/ML research and quantitative systems — turning complex theory into deployable, production-grade software. I care about technology that solves meaningful problems at scale, and I split my time roughly three ways:
+I'm a first year student at **IIT Jodhpur (B.S. Artificial Intelligence)** working at the intersection of AI/ML research and quantitative systems turning complex theory into deployable, production grade software. I care about technology that solves meaningful problems at scale, and I split my time roughly three ways:
 
 - 🔬 **Research** — ML for geospatial/environmental data, post-quantum cryptography, genomic ML pipelines, aerospace applications
 - 🛡️ **Security** — network security, vulnerability assessment, security automation
