@@ -84,11 +84,11 @@ I'm an **MIT MicroMasters Scholar**, an **Oxford COMPOS** alum in theoretical/ma
 ## 🎓 Education
 
 ```text
-Indian Institute of Technology Jodhpur      B.S., Artificial Intelligence          2026
-Massachusetts Institute of Technology       MicroMasters, Logistics & Supply Chain 2025 – 2026
-University of Oxford                        COMPOS, Theoretical & Math Physics     2024 – 2025
-The Johns Hopkins University                 Certificate, Machine Learning         2026
-Peking University                             Chinese Language (HSK 1–6)           2026
+Indian Institute of Technology Jodhpur       B.S., Artificial Intelligence             2026
+Massachusetts Institute of Technology        MicroMasters, Logistics & Supply Chain    2025 – 2026
+University of Oxford                         COMPOS, Theoretical & Math Physics        2024 – 2025
+The Johns Hopkins University                 Certificate, Machine Learning             2026
+Peking University                            Chinese Language (HSK 1–6)                2026
 ```
 
 <br/>
@@ -118,21 +118,6 @@ Peking University                             Chinese Language (HSK 1–6)      
 | Chinese, Konkani | Professional Working |
 | Bhojpuri, Gujarati, Russian | Elementary |
 | Spanish, Sanskrit | Limited Working |
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CoderOggy78&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderOggy78&layout=compact&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderOggy78hide_border=true"/>
-
-</div>
 
 <br/>
 
