@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vishwanath%20Barve&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Theoretical%20CS%20%7C%20AI%2FML%20Research%20%7C%20Security&descAlignY=55&descSize=18" width="100%"/>
 
