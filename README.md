@@ -28,7 +28,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a first-year student at **IIT Jodhpur** working at the intersection of **AI/ML research** and **production-grade software**, turning theory into systems that actually run. 8+ years of coding, 1000+ DSA problems, and a bias toward explainable, deployable models.
 
@@ -53,7 +53,7 @@ class Oggy:
 
 <br/>
 
-## 🔭 Currently
+##  Currently
 
 | | |
 |:---:|---|
@@ -66,7 +66,7 @@ class Oggy:
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -121,7 +121,7 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 
 <br/>
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
