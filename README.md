@@ -46,9 +46,9 @@ class Oggy:
 
 <div align="center">
 
-| 🔬 **Research** | 🛡️ **Security** | 🌍 **Community** |
+|  **Research** |  **Security** |  **Community** |
 |:---:|:---:|:---:|
-| Geospatial / environmental ML, genomic pipelines, aerospace AI, LLM evaluation | Network security, vulnerability assessment, security automation | Mentored 500+ students, led 2,000+ member communities, 17× open-source mentor |
+| Geospatial / environmental ML, genomic pipelines, aerospace AI, LLM evaluation , Software Engineering, Theoretical CS, Algorithmic Research | Network security, vulnerability assessment, security automation | Mentored 500+ students, led 2,000+ member communities, 17× open-source mentor |
 
 </div>
 
