@@ -172,7 +172,7 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 <br/>
 
 <details>
-<summary><b>💼 Full research & industry timeline</b></summary>
+<summary><b> Full research & industry timeline</b></summary>
 <br/>
 
 **Research**
@@ -203,14 +203,14 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 </details>
 
 <details>
-<summary><b>🎓 Education & certifications</b></summary>
+<summary><b> Education & certifications</b></summary>
 <br/>
 
 ```text
 Indian Institute of Technology Jodhpur   B.Sc., Applied AI & Data Science      2026 – 2029
 Massachusetts Institute of Technology    MicroMasters, Supply Chain (MITx)     2025 – 2026
 University of Oxford                     COMPOS, Theoretical & Math Physics    2024 – 2025
-Johns Hopkins University                 Machine Learning                      2026
+Johns Hopkins University                 Certification Machine Learning        2026
 Peking University                        Chinese Language (HSK 1–6)            2026
 University of Tokyo                      GCI World, September Program          2026
 ```
@@ -220,7 +220,7 @@ University of Tokyo                      GCI World, September Program          2
 </details>
 
 <details>
-<summary><b>🗣️ Languages</b></summary>
+<summary><b> Languages</b></summary>
 <br/>
 
 | Language | Fluency |
@@ -235,7 +235,7 @@ University of Tokyo                      GCI World, September Program          2
 
 <br/>
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
