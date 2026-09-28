@@ -170,31 +170,6 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=CoderOggy78&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F2027" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderOggy78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0F2027" />
-
-<img src="https://streak-stats.demolab.com/?user=CoderOggy78&theme=tokyonight&hide_border=true&background=0F2027" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderOggy78&theme=react-dark&hide_border=true&bg_color=0F2027&color=4FC3F7&line=2C5364&point=ffffff&area=true&area_color=2C5364" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=CoderOggy78&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/CoderOggy78/CoderOggy78/output/github-snake-dark.svg" alt="snake animation" />
-</div>
-
-<br/>
-
 <details>
 <summary><b>💼 Full research & industry timeline</b></summary>
 <br/>
