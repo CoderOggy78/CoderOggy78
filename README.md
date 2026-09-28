@@ -8,6 +8,7 @@
 
 <a href="https://www.linkedin.com/in/vishwanathbarve-151146323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vishwanathbarve1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://topmate.io/vishwanath_barve"><img src="https://img.shields.io/badge/Topmate-Book%20a%20Call-FF6B6B?style=for-the-badge"/></a>
 <!-- TODO: add your real links, then uncomment
 <a href="https://topmate.io/YOUR_HANDLE"><img src="https://img.shields.io/badge/Topmate-Book%20a%20Call-FF6B6B?style=for-the-badge"/></a>
 <a href="https://codeforces.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
