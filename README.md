@@ -128,12 +128,12 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 
 | 🥇 Competitive Programming | 🎖️ Recognition |
 |---|---|
-| **ICPC** — Rank 4, RSU Intercontinental '26 · The 2026 ICPC Online Challenge (Huawei) | 🥇 **Okinawa CodeRace 2026** — Champion |
-| **CodeChef** — DSA peak 2126 · global rank < 100 · 4★ CP (1900+) | 🌟 **Google Big Code 2026** — Finalist |
-| **Codeforces** — Expert, peak 1650+ | 🎓 **Microsoft Elevate Educator Expert** 2026–27 |
-| **HackerRank** — 5★ Gold in C++, Java, Python | 📈 **WorldQuant BRAIN** — Gold Tier |
-| **1000+** DSA / CP problems solved | 📊 **India National Excel Championship '26** — Finalist |
-| **15+ hackathons** finalist · Top 3 five times | 🎖️ Young Scientist Awardee · Aspire Leaders '26 · Google GEAR Mentee |
+| **ICPC** — Rank 4, RSU Intercontinental '26 · The 2026 ICPC Online Challenge (Huawei) |  **Okinawa CodeRace 2026** — Champion |
+| **CodeChef** — DSA peak 2126 · global rank < 100 · 4★ CP (1900+) |  **Google Big Code 2026** — Finalist |
+| **Codeforces** — Expert, peak 1650+ |  **Microsoft Elevate Educator Expert** 2026–27 |
+| **HackerRank** — 5★ Gold in C++, Java, Python |  **WorldQuant BRAIN** — Gold Tier |
+| **1000+** DSA / CP problems solved |  **India National Excel Championship '26** — Finalist |
+| **15+ hackathons** finalist · Top 3 five times |  Young Scientist Awardee · Aspire Leaders '26 · Google GEAR Mentee |
 
 </div>
 
