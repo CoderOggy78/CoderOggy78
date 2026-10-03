@@ -144,16 +144,22 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GSSoC%202026-Mentor-1A1F3D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GSSoC%202025-Mentor-1A1F3D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SWOC-Social%20Winter%20of%20Code-2E3A59?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="110"><img src="assets/mentorship/gssoc.png" height="60"/><br/><sub><b>GSSoC</b><br/>2025 · 2026</sub></td>
+<td align="center" width="110"><img src="assets/mentorship/swoc.png" height="60"/><br/><sub><b>SWOC</b><br/>Social Winter of Code</sub></td>
+<td align="center" width="110"><img src="assets/mentorship/elite-coders-woc.png" height="60"/><br/><sub><b>Elite Coders</b><br/>Winter of Code</sub></td>
+<td align="center" width="110"><img src="assets/mentorship/open-source-connect.png" height="60"/><br/><sub><b>OSC Global</b><br/>Mentor</sub></td>
+<td align="center" width="110"><img src="assets/mentorship/usaii.png" height="40"/><br/><sub><b>USAII</b><br/>Mentor</sub></td>
+</tr>
+</table>
+
 <img src="https://img.shields.io/badge/KWoC-Kharagpur%20Winter%20of%20Code-003057?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Elite%20Coders-Winter%20of%20Code-EFC3CB?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Open%20Source%20Connect-Global%20Mentor-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/USAII-Certified%2FMentor-2b2b2b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Unstop-Mentor-00A5EC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Topmate-1%3A1%20Mentor-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google-Student%20Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<br/><br/>
 
 <sub>Mentor across 16+ open-source programs and cohorts — 500+ students mentored, 17× open-source mentor.</sub>
 
