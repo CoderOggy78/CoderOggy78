@@ -36,8 +36,8 @@ I'm a first-year student at **IIT Jodhpur** working at the intersection of **AI/
 ```python
 class Oggy:
     def __init__(self):
-        self.role       = "ML Researcher & Software Engineer"
-        self.school     = "IIT Jodhpur '29"
+        self.role       = "Applied Machine learning Researcher and Software Engineer"
+        self.school     = "Indian Institute of Technology Jodhpur"
         self.focus      = ["Geospatial ML", "Explainable AI", "Genomics", "Post-Quantum Crypto", "Security"]
         self.cp         = {"ICPC": "Rank 4 (RSU Intercontinental '26)", "Codeforces": "Expert", "CodeChef": "Global Top 100"}
         self.community  = ["ICPC Campus Ambassador", "AWS Builder Group Lead", "Google ELP", "17x OSS Mentor"]
