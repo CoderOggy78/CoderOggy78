@@ -9,8 +9,8 @@
 <a href="https://www.linkedin.com/in/vishwanathbarve-151146323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vishwanathbarve1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://topmate.io/vishwanath_barve"><img src="https://img.shields.io/badge/Topmate-Book%20a%20Call-FF6B6B?style=for-the-badge"/></a>
+<a href="https://icpc.global/ICPCID/EDDQBADH7378"><img src="https://img.shields.io/badge/ICPC%20ID-EDDQBADH7378-E63946?style=for-the-badge"/></a>
 <!-- TODO: add your real links, then uncomment
-<a href="https://topmate.io/YOUR_HANDLE"><img src="https://img.shields.io/badge/Topmate-Book%20a%20Call-FF6B6B?style=for-the-badge"/></a>
 <a href="https://codeforces.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/YOUR_HANDLE"><img src="https://img.shields.io/badge/CodeChef-Global%20Top%20100-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 -->
@@ -29,14 +29,14 @@
 
 <br/>
 
-##  About Me
+## About Me
 
 I'm a first-year student at **IIT Jodhpur** working at the intersection of **AI/ML research** and **production-grade software**, turning theory into systems that actually run. 8+ years of coding, 1000+ DSA problems, and a bias toward explainable, deployable models.
 
 ```python
 class Oggy:
     def __init__(self):
-        self.role       = "Applied Machine learning Researcher and Software Engineer"
+        self.role       = "Applied Machine Learning Researcher and Software Engineer"
         self.school     = "Indian Institute of Technology Jodhpur"
         self.focus      = ["Geospatial ML", "Explainable AI", "Genomics", "Post-Quantum Crypto", "Security"]
         self.cp         = {"ICPC": "Rank 4 (RSU Intercontinental '26)", "Codeforces": "Expert", "CodeChef": "Global Top 100"}
@@ -46,15 +46,15 @@ class Oggy:
 
 <div align="center">
 
-|  **Research** |  **Security** |  **Community** |
+| **Research** | **Security** | **Community** |
 |:---:|:---:|:---:|
-| Geospatial / environmental ML, genomic pipelines, aerospace AI, LLM evaluation , Software Engineering, Theoretical CS, Algorithmic Research | Network security, vulnerability assessment, security automation | Mentored 500+ students, led 2,000+ member communities, 17× open-source mentor |
+| Geospatial / environmental ML, genomic pipelines, aerospace AI, LLM evaluation, software engineering, theoretical CS, algorithmic research | Network security, vulnerability assessment, security automation | Mentored 500+ students, led 2,000+ member communities, 17× open-source mentor |
 
 </div>
 
 <br/>
 
-##  Currently
+## Currently
 
 | | |
 |:---:|---|
@@ -67,7 +67,7 @@ class Oggy:
 
 <br/>
 
-##  Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -122,18 +122,40 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 
 <br/>
 
-##  Achievements
+## Achievements
 
 <div align="center">
 
 | 🥇 Competitive Programming | 🎖️ Recognition |
 |---|---|
-| **ICPC** — Rank 4, RSU Intercontinental '26 · The 2026 ICPC Online Challenge (Huawei) |  **Okinawa CodeRace 2026** — Champion |
-| **CodeChef** — DSA peak 2126 · global rank < 100 · 4★ CP (1900+) |  **Google Big Code 2026** — Finalist |
-| **Codeforces** — Expert, peak 1650+ |  **Microsoft Elevate Educator Expert** 2026–27 |
-| **HackerRank** — 5★ Gold in C++, Java, Python |  **WorldQuant BRAIN** — Gold Tier |
-| **1000+** DSA / CP problems solved |  **India National Excel Championship '26** — Finalist |
-| **15+ hackathons** finalist · Top 3 five times |  Young Scientist Awardee · Aspire Leaders '26 · Google GEAR Mentee |
+| **ICPC** — Rank 4, RSU Intercontinental '26 · The 2026 ICPC Online Challenge (Huawei) | **Okinawa CodeRace 2026** — Champion |
+| **CodeChef** — DSA peak 2126 · global rank < 100 · 4★ CP (1900+) | **Google Big Code 2026** — Finalist |
+| **Codeforces** — Expert, peak 1650+ | **Microsoft Elevate Educator Expert** 2026–27 |
+| **HackerRank** — 5★ Gold in C++, Java, Python | **WorldQuant BRAIN** — Gold Tier |
+| **1000+** DSA / CP problems solved | **India National Excel Championship '26** — Finalist |
+| **Nexus Spring of Code 2026** — Top 50 contributor | **15+ hackathons** finalist · Top 3 five times |
+| | Young Scientist Awardee · Aspire Leaders '26 · Google GEAR Mentee |
+
+</div>
+
+<br/>
+
+## 🤝 Open Source Mentorship
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GSSoC%202026-Mentor-1A1F3D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSSoC%202025-Mentor-1A1F3D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SWOC-Social%20Winter%20of%20Code-2E3A59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KWoC-Kharagpur%20Winter%20of%20Code-003057?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Elite%20Coders-Winter%20of%20Code-EFC3CB?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Open%20Source%20Connect-Global%20Mentor-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/USAII-Certified%2FMentor-2b2b2b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unstop-Mentor-00A5EC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Topmate-1%3A1%20Mentor-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google-Student%20Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<sub>Mentor across 16+ open-source programs and cohorts — 500+ students mentored, 17× open-source mentor.</sub>
 
 </div>
 
@@ -172,7 +194,7 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 <br/>
 
 <details>
-<summary><b> Full research & industry timeline</b></summary>
+<summary><b>Full research & industry timeline</b></summary>
 <br/>
 
 **Research**
@@ -198,19 +220,19 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 - **AWS Student Builder Group Lead** — IIT Jodhpur · **Core Team Lead** — AWS Security User Group, APAC
 - **Google ELP** — Pune Circle Leader / Higher-Ed Community Facilitator · **Mentee** — Google for Startups
 - **Mentor & Elevate Educator** — Microsoft *(2025 – 2026)* · **Course Instructor** — Udemy
-- Mentor across **16+ open-source programs** (GSSoC, Summer/Winter of Code) · Mentor, USAII 2026 Hackathon · Jury, Innovate Nations Hackathon
+- Mentor across **16+ open-source programs** (GSSoC '25 & '26, SWOC, KWoC, Elite Coders Winter of Code, Open Source Connect Global, Summer/Winter of Code) · Mentor, USAII · Mentor, Unstop · Mentor, USAII 2026 Hackathon · Jury, Innovate Nations Hackathon
 
 </details>
 
 <details>
-<summary><b> Education & certifications</b></summary>
+<summary><b>Education & certifications</b></summary>
 <br/>
 
 ```text
 Indian Institute of Technology Jodhpur   B.Sc., Applied AI & Data Science      2026 – 2029
 Massachusetts Institute of Technology    MicroMasters, Supply Chain (MITx)     2025 – 2026
 University of Oxford                     COMPOS, Theoretical & Math Physics    2024 – 2025
-Johns Hopkins University                 Certification Machine Learning        2026
+Johns Hopkins University                 Certification, Machine Learning       2026
 Peking University                        Chinese Language (HSK 1–6)            2026
 University of Tokyo                      GCI World, September Program          2026
 ```
@@ -220,7 +242,7 @@ University of Tokyo                      GCI World, September Program          2
 </details>
 
 <details>
-<summary><b> Languages</b></summary>
+<summary><b>Languages</b></summary>
 <br/>
 
 | Language | Fluency |
@@ -235,7 +257,7 @@ University of Tokyo                      GCI World, September Program          2
 
 <br/>
 
-##  Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -243,6 +265,8 @@ Building something that pushes boundaries — research, ML systems, security, or
 
 <a href="https://www.linkedin.com/in/vishwanathbarve-151146323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vishwanathbarve1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://topmate.io/vishwanath_barve"><img src="https://img.shields.io/badge/Topmate-Book%20a%20Call-FF6B6B?style=for-the-badge"/></a>
+<a href="https://icpc.global/ICPCID/EDDQBADH7378"><img src="https://img.shields.io/badge/ICPC%20ID-EDDQBADH7378-E63946?style=for-the-badge"/></a>
 
 <br/><br/>
 
