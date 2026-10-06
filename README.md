@@ -140,7 +140,7 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 
 <br/>
 
-## 🤝 Open Source Mentorship
+##  Open Source Mentorship
 
 <div align="center">
 
