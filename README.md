@@ -38,7 +38,7 @@ class Oggy:
     def __init__(self):
         self.role       = "Applied Machine Learning Researcher and Software Engineer"
         self.school     = "Indian Institute of Technology Jodhpur"
-        self.focus      = ["Geospatial ML", "Explainable AI", "Genomics", "Post-Quantum Crypto", "Security"]
+        self.focus      = ["Applied Machine Learning, Software Engineering, Data Science, AI Engineering, Competitive Programming "]
         self.cp         = {"ICPC": "Rank 4 (RSU Intercontinental '26)", "Codeforces": "Expert", "CodeChef": "Global Top 100"}
         self.community  = ["ICPC Campus Ambassador", "AWS Builder Group Lead", "Google ELP", "17x OSS Mentor"]
         self.open_to    = ["research collabs", "hard problems", "open source"]
@@ -73,7 +73,7 @@ class Oggy:
 <tr>
 <td width="50%" valign="top">
 
-### 🦠 VirionLens
+###  VirionLens
 **Explainable TEM Virus Image Classification**
 
 End-to-end deep learning pipeline on 4,300+ electron-microscopy images: transfer learning (ResNet, DenseNet), augmentation, fine-tuning, macro-F1 / confusion-matrix evaluation, **Grad-CAM** explanations, confidence scoring and error analysis. Next: uncertainty estimation, OOD detection, calibration, live inference UI.
@@ -83,7 +83,7 @@ End-to-end deep learning pipeline on 4,300+ electron-microscopy images: transfer
 </td>
 <td width="50%" valign="top">
 
-### 🧠 NeuroLens-AI
+###  NeuroLens-AI
 **Explainable Brain Tumor Classification from MRI**
 
 4-class classifier (Glioma · Meningioma · Pituitary · No Tumor) using EfficientNetB0 transfer learning on ~5,600 balanced images, **~97% validation accuracy**, with confidence scores, confusion matrices and visual interpretation of predictions.
@@ -95,7 +95,7 @@ End-to-end deep learning pipeline on 4,300+ electron-microscopy images: transfer
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 ONYX
+###  ONYX
 **Multi-signal ML for Bacteriophage & Zoonotic Viral Host Prediction**
 
 Genomic-sequence pipeline from DNA encoding and feature extraction to model training and evaluation; integration validated end-to-end on a controlled synthetic set (200 sequences) before real-data benchmarking.
@@ -105,7 +105,7 @@ Genomic-sequence pipeline from DNA encoding and feature extraction to model trai
 </td>
 <td width="50%" valign="top">
 
-### 📖 ICPC Codex
+###  ICPC Codex
 **The Free Competitive Programming Vault**
 
 Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures and problem sets to climb from 0 → 2400 rating. **1,000+ daily users.**
@@ -126,7 +126,7 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 
 <div align="center">
 
-| 🥇 Competitive Programming | 🎖️ Recognition |
+|  Competitive Programming |  Recognition |
 |---|---|
 | **ICPC** — Rank 4, RSU Intercontinental '26 · The 2026 ICPC Online Challenge (Huawei) | **Okinawa CodeRace 2026** — Champion |
 | **CodeChef** — DSA peak 2126 · global rank < 100 · 4★ CP (1900+) | **Google Big Code 2026** — Finalist |
@@ -140,7 +140,7 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 
 <br/>
 
-## 🤝 Open Source Mentorship
+##  Open Source Mentorship
 
 <div align="center">
 
