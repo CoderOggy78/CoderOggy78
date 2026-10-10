@@ -1,8 +1,8 @@
-<div align="center"> 
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Vishwanath%20Barve&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=ML%20Researcher%20%C2%B7%20Software%20Engineer%20%C2%B7%20Competitive%20Programmer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/CoderOggy78"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Oggy+%F0%9F%91%8B+%E2%80%94+ML+%2B+Theoretical+CS+%2B+Security;ICPC+RSU+Intercontinental+'26+%E2%80%94+Rank+4+%F0%9F%8F%86;Codeforces+Expert+%C2%B7+CodeChef+Global+Top+100+%E2%9A%A1;Geospatial+ML+%C2%B7+Explainable+AI+%C2%B7+Genomics+%C2%B7+PQC;Research+%40+IIT+Roorkee+%C2%B7+IIT+BHU+%C2%B7+IIIT+Pune+%C2%B7+NASA+WG;17%C3%97+Open-Source+Mentor+%C2%B7+500%2B+students+mentored" alt="Typing SVG" /></a>
+<a href="https://github.com/CoderOggy78"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Oggy+%F0%9F%91%8B+%E2%80%94+ML+%2B+Theoretical+CS+%2B+Security;ICPC+RSU+Intercontinental+'26+%E2%80%94+Rank+4+%F0%9F%8F%86;Codeforces+Expert+%C2%B7+CodeChef+Global+Top+100+%E2%9A%A1;Geospatial+ML+%C2%B7+Explainable+AI+%C2%B7+Genomics+%C2%B7+PQC;Research+%40+IIT+Gandhinagar+%C2%B7+IIT+Ropar+%C2%B7+IIT+Roorkee+%C2%B7+IIT+BHU+%C2%B7+IIIT+Pune;17%C3%97+Open-Source+Mentor+%C2%B7+500%2B+students+mentored" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -58,7 +58,7 @@ class Oggy:
 
 | | |
 |:---:|---|
-| 🌊 | **ML Research Intern, IIT Roorkee** — ML for Ganga River water-quality monitoring & prediction (geospatial + anthropogenic data) |
+| 🏛️ | **Research Intern (incoming), IIT Gandhinagar** |
 | 🦠 | **VirionLens** — explainable virus classification from TEM images (ResNet / DenseNet + Grad-CAM) |
 | 🧠 | **NeuroLens-AI** — explainable brain-tumor MRI classification (EfficientNetB0, ~97% val. accuracy) |
 | 🧬 | **ONYX** — multi-signal ML for predicting bacteriophage & zoonotic viral hosts from genomic sequence |
@@ -140,7 +140,7 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 
 <br/>
 
-##  Open Source Mentorship
+## 🤝 Open Source Mentorship
 
 <div align="center">
 
@@ -200,7 +200,9 @@ Open-source archive maintained by ICPC rank holders: roadmaps, verified lectures
 <br/>
 
 **Research**
-- **ML Research Intern** — IIT Roorkee *(Jun 2026 – Present)* · Ganga water-quality ML, geospatial + oceanographic analytics
+- **Research Intern** — IIT Gandhinagar *(Incoming)*
+- **Research Intern, VLED Lab** — IIT Ropar *(1 month, Oct 2026)*
+- **ML Research Intern** — IIT Roorkee *(Jun – Oct 2026)* · Ganga River water-quality ML, geospatial + oceanographic analytics
 - **Summer Research Intern** — IIT (BHU) Varanasi *(2026 – Present)*
 - **Summer Research Intern** — IIIT Pune · post-quantum cryptography for IoT *(2026)*
 - **Research Intern, Cybersecurity** — Pune Institute of Computer Technology *(2026 – Present)*
