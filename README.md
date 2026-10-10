@@ -58,7 +58,7 @@ class Oggy:
 
 | | |
 |:---:|---|
-| 🏛️ | **Research Intern (incoming), IIT Gandhinagar** |
+| 🏛️ | **Applied Machine Learning Research Intern , IIT Gandhinagar** |
 | 🦠 | **VirionLens** — explainable virus classification from TEM images (ResNet / DenseNet + Grad-CAM) |
 | 🧠 | **NeuroLens-AI** — explainable brain-tumor MRI classification (EfficientNetB0, ~97% val. accuracy) |
 | 🧬 | **ONYX** — multi-signal ML for predicting bacteriophage & zoonotic viral hosts from genomic sequence |
